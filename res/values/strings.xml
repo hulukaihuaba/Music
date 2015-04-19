@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">音乐播放器</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="filename">音乐文件名称</string>
+<string name="playbutton">开始</string>
+<string name="pausebutton">暂停</string>
+<string name="resetbutton">重播</string>
+<string name="stopbutton">停止</string>
+<string name="nofile">文件没有找到</string>
+<string name="continues">继续</string>
+<string name="prompt">温岚 - 祝我生日快乐.mp3</string>
+</resources>
